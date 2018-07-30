@@ -1,2 +1,2 @@
 # New Project #
-print("Machine Learning")
+print("Cloud Strife Learning")
